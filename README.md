@@ -39,7 +39,7 @@ Cassidoo makes a lot of great content, including her guide for landing gigs:
 
 ## Data Structures and Algorithm Tutorials
 
-Tutorialspoint: 
+[Tutorialspoint](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
 
 [Data Structure and Algorithms Tutorial](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
 
