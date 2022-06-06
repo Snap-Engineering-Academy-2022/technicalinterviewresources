@@ -22,6 +22,7 @@ First things first, they're looking to see that you feel comfortable with **data
 Secondly, they're looking for **clear thinking and communication.** That's why it can be helpful to use the following UMPIRE strategy:
 
 [Umpire Strategy](https://guides.codepath.com/compsci/UMPIRE-Interview-Strategy)
+
 ![image](https://user-images.githubusercontent.com/26272095/172125647-f117e86b-8f99-4987-929f-7db9637cf332.png)
 
 
@@ -42,13 +43,9 @@ Tutorialspoint:
 
 [Data Structure and Algorithms Tutorial](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
 
-🟢🟢 Big green book!!! Free PDF 🟢🟢
+[🟢🟢 Big green book!!! Free PDF 🟢🟢](http://englishonlineclub.com/pdf/Cracking%20the%20Coding%20Interview%20-%20189%20Programming%20Questions%20and%20Solutions%20(6th%20Edition)%20[EnglishOnlineClub.com].pdf)
 
-[](https://cin.ufpe.br/~fbma/Crack/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf)
-
-CodePath Guide
-
-[Home | CodePath Android Cliffnotes](https://guides.codepath.com/compsci)
+[CodePath Cliffnotes](https://guides.codepath.com/compsci)
 
 [Technical Interviewing Guide](https://books.codepath.org/student-handbook/technical-interviewing/technical-interviewing-guide)
 
